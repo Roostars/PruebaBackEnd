@@ -164,3 +164,4 @@
 /Users/elmacbeto/proyecto/pruebatecnica/API/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/elmacbeto/proyecto/pruebatecnica/API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/elmacbeto/proyecto/pruebatecnica/API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/elmacbeto/proyecto/pruebatecnica/API/obj/Debug/net9.0/API.sourcelink.json
