@@ -1,0 +1,15 @@
+/Users/elmacbeto/proyecto/pruebatecnica/Application/bin/Debug/net9.0/Application.deps.json
+/Users/elmacbeto/proyecto/pruebatecnica/Application/bin/Debug/net9.0/Application.dll
+/Users/elmacbeto/proyecto/pruebatecnica/Application/bin/Debug/net9.0/Application.pdb
+/Users/elmacbeto/proyecto/pruebatecnica/Application/bin/Debug/net9.0/Domain.dll
+/Users/elmacbeto/proyecto/pruebatecnica/Application/bin/Debug/net9.0/Domain.pdb
+/Users/elmacbeto/proyecto/pruebatecnica/Application/obj/Debug/net9.0/Application.csproj.AssemblyReference.cache
+/Users/elmacbeto/proyecto/pruebatecnica/Application/obj/Debug/net9.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmacbeto/proyecto/pruebatecnica/Application/obj/Debug/net9.0/Application.AssemblyInfoInputs.cache
+/Users/elmacbeto/proyecto/pruebatecnica/Application/obj/Debug/net9.0/Application.AssemblyInfo.cs
+/Users/elmacbeto/proyecto/pruebatecnica/Application/obj/Debug/net9.0/Application.csproj.CoreCompileInputs.cache
+/Users/elmacbeto/proyecto/pruebatecnica/Application/obj/Debug/net9.0/Applicat.44B5EDA2.Up2Date
+/Users/elmacbeto/proyecto/pruebatecnica/Application/obj/Debug/net9.0/Application.dll
+/Users/elmacbeto/proyecto/pruebatecnica/Application/obj/Debug/net9.0/refint/Application.dll
+/Users/elmacbeto/proyecto/pruebatecnica/Application/obj/Debug/net9.0/Application.pdb
+/Users/elmacbeto/proyecto/pruebatecnica/Application/obj/Debug/net9.0/ref/Application.dll
