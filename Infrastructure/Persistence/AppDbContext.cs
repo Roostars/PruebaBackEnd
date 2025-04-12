@@ -19,6 +19,35 @@ namespace Infrastructure.Persistence
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Event>(entity =>
+            {
+            
+                entity.ToTable("Events");
+
+                entity.HasKey(e => e.Id);
+
+                entity.Property(e => e.Id)
+                      .HasColumnType("TEXT")
+                      .IsRequired();
+
+                entity.Property(e => e.Title)
+                      .HasColumnType("TEXT")
+                      .IsRequired();
+
+                entity.Property(e => e.Start)
+                      .HasColumnType("TEXT")
+                      .IsRequired();
+
+                entity.Property(e => e.End)
+                      .HasColumnType("TEXT")
+                      .IsRequired();
+                                entity.Property(e => e.Type)
+                      .HasColumnType("INTEGER")
+                      .IsRequired();
+
+                entity.Property(e => e.Description)
+                      .HasColumnType("TEXT");
+            });
         }
     }
 }

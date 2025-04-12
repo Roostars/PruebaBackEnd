@@ -11,7 +11,7 @@ namespace Domain.Entities
         public string? Id { get; set;} = null!;
         public string? Title  { get; set; } = null!;
         public DateTime Start { get; set; }
-        public DateOnly End { get; set; }
+        public DateTime End { get; set; }
         public EventTypeEnum Type { get; set; }
         public string? Description { get; set; }
 

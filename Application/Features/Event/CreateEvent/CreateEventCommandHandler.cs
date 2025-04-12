@@ -14,8 +14,10 @@ namespace Application.Features.Event.CreateEvent
 
         public async Task<string> Handle(CreateEventCommand request, CancellationToken cancellationToken)
         {
+            
             var eventEntity = new Domain.Entities.Event
             {
+                Id = Guid.NewGuid().ToString(),
                 Title = request.Title,                
                 Start = request.Start,
                 End = request.End,

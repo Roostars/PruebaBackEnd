@@ -53,7 +53,6 @@ namespace API.Controllers
        [HttpPut("{id}")]
         public async Task<IActionResult> UpdateEvent(string id, [FromBody] UpdateEventCommand command)
         {
-
         if (id != command.Id)
         {
         return BadRequest("El ID de la URL no coincide con el del cuerpo.");
